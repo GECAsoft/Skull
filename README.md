@@ -2,7 +2,9 @@
 Skull - A Free Multi-platform Game
 
 Version 4.1
+
 Original Ms-Dos Game: (c) 2000 Diogo Lapa
+
 Reprogrammed Game: (c) 2009 GECA soft
 
 <p align="center">
